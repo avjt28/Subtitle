@@ -1,3 +1,5 @@
+#code by: Abhijeet Sinha
+#used API of subDB
 import hashlib
 import requests
 import sys
